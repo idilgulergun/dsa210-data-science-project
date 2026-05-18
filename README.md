@@ -122,3 +122,5 @@ The notebook includes:
 pip install -r requirements.txt
 jupyter notebook analysis.ipynb
 ```
+## AI Usage Disclosure
+AI tools including ChatGPT were used for brainstorming, editing text, debugging code, and improving report structure. All analysis, interpretation, and final decisions were reviewed and completed by the author.
